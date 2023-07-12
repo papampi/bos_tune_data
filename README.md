@@ -13,7 +13,7 @@ This is a Bash script for monitoring and tuning Braiins OS+ miners using the Bra
 To use the script, run it with the IP address of the miner as the first command-line argument:
 
 ```
-./bos-tuner.sh <IP_ADDRESS>
+./bos_tuning_data.sh <IP_ADDRESS>
 ```
 
 Replace `<IP_ADDRESS>` with the IP address of your miner.
